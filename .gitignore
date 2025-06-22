@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/KnobsterVoice/libknobster/x64
+/KnobsterVoice/libknobster/x86
+/KnobsterVoiceEncoder/obj/Debug
+/KnobsterVoice/Win32/Debug/KnobsterVoice.tlog
+/KnobsterVoice/Win32/Debug
+/KnobsterVoiceEncoder/bin/Debug
+/Win32
+/KnobsterVoice/Win32/Release
+/KnobsterVoiceEncoder/bin/Release
+/KnobsterVoiceEncoder/obj/Release
+/KnobsterVoiceTray/Debug
+/KnobsterVoiceTray/Release
+/Release
