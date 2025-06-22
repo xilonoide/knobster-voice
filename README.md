@@ -7,7 +7,9 @@ Create your VoiceAttack profiles and use them to control your Knobster from Voic
 ## How it works ⚙️
 You have to create Voice Attack profiles with KnobsterVoiceEncoder application. Then assign your game key bindings to your Knobster (push/relase, inner knob and outer knob). Before starting your sim, you must start the KnobsterVoice application and... that's all!
 
-You can expand your profile in VoiceAttack to assign categories, modify voice commands, assign joystick buttons, etc.
+You can expand your profile in VoiceAttack to assign categories, modify voice commands, assign joystick buttons, etc. Watch this sample video:
+
+[![Watch the video](https://img.youtube.com/vi/niNp0mPV2uk/hqdefault.jpg)](https://www.youtube.com/watch?v=niNp0mPV2uk)
 
 ## Installation
 [.Net Framework 4.8](https://dotnet.microsoft.com/es-es/download/dotnet-framework/thank-you/net48-web-installer) required
